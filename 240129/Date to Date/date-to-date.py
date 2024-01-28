@@ -8,6 +8,7 @@ elapsed_days = 0
 while True:
     if month == m2 and day == d2:
         break
+
     elapsed_days += 1
     day += 1
 
@@ -15,4 +16,4 @@ while True:
         month += 1
         day = 1
 
-print(elapsed_days+1)
+print(elapsed_days)
