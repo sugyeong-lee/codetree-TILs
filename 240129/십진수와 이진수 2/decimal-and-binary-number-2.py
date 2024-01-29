@@ -1,3 +1,5 @@
+# ㄴㄴㄴ
+
 binary = list(map(int, list(input())))
 length = len(binary)
 
